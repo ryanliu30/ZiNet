@@ -1,0 +1,5 @@
+ZiNetDataset/
+__pycache__/
+artifacts/
+diffvg/
+wandb/
