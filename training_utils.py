@@ -1,10 +1,10 @@
 import sys
 import yaml
-sys.path.append("C:/Users/liury/OneDrive/桌面/ZiNet/")
+sys.path.append("~/machine_learning/ZiNet/")
 
 from VAE_CNN.models.convnext import ZiCVAE
 
-path = "C:/Users/liury/OneDrive/桌面/ZiNet/"
+path = "~/machine_learning/ZiNet/"
 
 def process_hparams(hparams):
 
